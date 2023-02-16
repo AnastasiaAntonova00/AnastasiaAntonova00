@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnastasiaAntonova00
-- 🌱 I’m currently learning QA | C/C++/C# | .NET | JS | SQL 
+- 🌱 I’m currently learning QA | C/C++/C# | .NET | JS | SQL | Python
 - 💞️ I’m looking to collaborate on frontend | analitics | web pages
 - 📫 How to reach me https://www.linkedin.com/in/anastasia-antonova-898a32225/
 
